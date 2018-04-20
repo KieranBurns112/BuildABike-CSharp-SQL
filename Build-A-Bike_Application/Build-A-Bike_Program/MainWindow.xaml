@@ -1,0 +1,54 @@
+﻿<Window x:Class="Build_A_Bike_Program.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Build_A_Bike_Program"
+        mc:Ignorable="d"
+        Title="Build-A-Bike" Height="476.624" Width="746.451">
+    <Grid Margin="0,0,2,-14">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="agreeButton" Content="          Agree&#xD;&#xA;(Move to payment)" HorizontalAlignment="Left" Margin="223,380,0,0" VerticalAlignment="Top" Width="212" Height="48" Click="agreeButton_Click"/>
+        <Button x:Name="cancelButton" Content="Cancel Order" HorizontalAlignment="Left" Margin="464,380,0,0" VerticalAlignment="Top" Width="212" Height="48" Click="cancelButton_Click"/>
+        <Label x:Name="bikeNoLabel" Content="Bike X Component Select:" HorizontalAlignment="Left" Margin="-2,-1,0,0" VerticalAlignment="Top" FontWeight="Bold" TextOptions.TextFormattingMode="Display" Height="25" Width="157"/>
+        <TextBox x:Name="timeOut" HorizontalAlignment="Left" Height="24" Margin="464,341,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="247"/>
+        <ListBox x:Name="timeBreakdown" HorizontalAlignment="Left" Height="318" Margin="464,18,0,0" VerticalAlignment="Top" Width="247"/>
+        <ComboBox x:Name="frameSizeBox" HorizontalAlignment="Left" Margin="24,54,0,0" VerticalAlignment="Top" Width="103" Height="18" RenderTransformOrigin="0.421,1.281" FontSize="10" SelectionChanged="frameSizeBox_SelectionChanged"/>
+        <Label x:Name="label1" Content="Frame:" HorizontalAlignment="Left" Margin="1,18,0,0" VerticalAlignment="Top" Height="26" Width="45"/>
+        <Label x:Name="label1_Copy" Content="Size" HorizontalAlignment="Left" Margin="24,29,0,0" VerticalAlignment="Top" Height="25" Width="31"/>
+        <ComboBox x:Name="frameColourBox" HorizontalAlignment="Left" Margin="24,95,0,0" VerticalAlignment="Top" Width="103" Height="18" RenderTransformOrigin="0.421,1.281" FontSize="10" SelectionChanged="frameColourBox_SelectionChanged"/>
+        <Label x:Name="label1_Copy2" Content="Colour" HorizontalAlignment="Left" Margin="24,70,0,0" VerticalAlignment="Top" Height="25" Width="45"/>
+        <ComboBox x:Name="groupSetGearsBox" HorizontalAlignment="Left" Margin="24,144,0,0" VerticalAlignment="Top" Width="103" Height="18" RenderTransformOrigin="0.421,1.281" FontSize="10" SelectionChanged="groupSetGearsBox_SelectionChanged"/>
+        <Label x:Name="label1_Copy1" Content="Group Set:" HorizontalAlignment="Left" Margin="1,108,0,0" VerticalAlignment="Top" Height="26" Width="66"/>
+        <Label x:Name="label1_Copy3" Content="Gears" HorizontalAlignment="Left" Margin="24,121,0,0" VerticalAlignment="Top" Height="25" Width="40"/>
+        <ComboBox x:Name="groupSetBrakesBox" HorizontalAlignment="Left" Margin="24,183,0,0" VerticalAlignment="Top" Width="103" Height="18" RenderTransformOrigin="0.421,1.281" FontSize="10" SelectionChanged="groupSetBrakesBox_SelectionChanged"/>
+        <Label x:Name="label1_Copy4" Content="Brakes" HorizontalAlignment="Left" Margin="24,158,0,0" VerticalAlignment="Top" Height="25" Width="44"/>
+        <ComboBox x:Name="wheelsBox" HorizontalAlignment="Left" Margin="24,218,0,0" VerticalAlignment="Top" Width="103" Height="18" RenderTransformOrigin="0.421,1.281" FontSize="10" SelectionChanged="wheelsBox_SelectionChanged"/>
+        <Label x:Name="label1_Copy5" Content="Wheels:" HorizontalAlignment="Left" Margin="1,194,0,0" VerticalAlignment="Top" Height="26" Width="51"/>
+        <ComboBox x:Name="handlebarsBox" HorizontalAlignment="Left" Margin="25,265,0,0" VerticalAlignment="Top" Width="103" Height="18" RenderTransformOrigin="0.421,1.281" FontSize="10" SelectionChanged="handlebarsBox_SelectionChanged"/>
+        <Label x:Name="label1_Copy6" Content="Finishing Set:" HorizontalAlignment="Left" Margin="2,230,0,0" VerticalAlignment="Top" Height="26" Width="80"/>
+        <Label x:Name="label1_Copy7" Content="Handlebars" HorizontalAlignment="Left" Margin="25,242,0,0" VerticalAlignment="Top" Height="25" Width="70"/>
+        <ComboBox x:Name="saddleBox" HorizontalAlignment="Left" Margin="25,302,0,0" VerticalAlignment="Top" Width="103" Height="18" RenderTransformOrigin="0.421,1.281" FontSize="10" SelectionChanged="saddleBox_SelectionChanged"/>
+        <Label x:Name="label1_Copy8" Content="Saddle" HorizontalAlignment="Left" Margin="25,278,0,0" VerticalAlignment="Top" Height="24" Width="46"/>
+        <Button x:Name="addBike" Content="Next/Add New Bike" HorizontalAlignment="Left" Margin="17,360,0,0" VerticalAlignment="Top" Width="116" Height="29" RenderTransformOrigin="0.517,0.628" Click="addBike_Click"/>
+        <Button x:Name="lastBike" Content="Previous Bike" HorizontalAlignment="Left" Margin="17,394,0,0" VerticalAlignment="Top" Width="116" Height="29" RenderTransformOrigin="0.517,0.628" Click="lastBike_Click"/>
+        <Separator HorizontalAlignment="Left" Height="7" Margin="-87,222,0,0" VerticalAlignment="Top" Width="510" RenderTransformOrigin="0.5,0.5">
+            <Separator.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-90"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Separator.RenderTransform>
+        </Separator>
+        <Separator HorizontalAlignment="Left" Height="16" Margin="3,13,0,0" VerticalAlignment="Top" Width="153" RenderTransformOrigin="0.5,0.5"/>
+        <CheckBox x:Name="warrantyCheck" Content="" HorizontalAlignment="Left" Margin="115,332,0,0" VerticalAlignment="Top" Height="23" Width="27" RenderTransformOrigin="1.653,0.446" Click="warrantyCheck_Clicked"/>
+        <Label x:Name="label1_Copy9" Content="Extended Warranty:" HorizontalAlignment="Left" Margin="2,325,0,0" VerticalAlignment="Top" Height="26" Width="113"/>
+        <ListBox x:Name="costBreakdown" HorizontalAlignment="Left" Height="318" Margin="188,18,0,0" VerticalAlignment="Top" Width="247"/>
+        <TextBox x:Name="costOut" HorizontalAlignment="Left" Height="24" Margin="188,341,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="247" RenderTransformOrigin="-0.752,0.345"/>
+
+    </Grid>
+</Window>

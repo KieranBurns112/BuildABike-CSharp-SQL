@@ -1,0 +1,11 @@
+C:\Users\evilr\Desktop\SEM CW part 2\Build-A-Bike_Program\Class unit tests\bin\Debug\BikeParts.mdf
+C:\Users\evilr\Desktop\SEM CW part 2\Build-A-Bike_Program\Class unit tests\bin\Debug\BikeParts_log.ldf
+C:\Users\evilr\Desktop\SEM CW part 2\Build-A-Bike_Program\Class unit tests\bin\Debug\Class unit tests.dll
+C:\Users\evilr\Desktop\SEM CW part 2\Build-A-Bike_Program\Class unit tests\bin\Debug\Class unit tests.pdb
+C:\Users\evilr\Desktop\SEM CW part 2\Build-A-Bike_Program\Class unit tests\bin\Debug\Build-A-Bike_Program.exe
+C:\Users\evilr\Desktop\SEM CW part 2\Build-A-Bike_Program\Class unit tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\evilr\Desktop\SEM CW part 2\Build-A-Bike_Program\Class unit tests\bin\Debug\Build-A-Bike_Program.pdb
+C:\Users\evilr\Desktop\SEM CW part 2\Build-A-Bike_Program\Class unit tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\evilr\Desktop\SEM CW part 2\Build-A-Bike_Program\Class unit tests\obj\Debug\Class unit tests.csprojResolveAssemblyReference.cache
+C:\Users\evilr\Desktop\SEM CW part 2\Build-A-Bike_Program\Class unit tests\obj\Debug\Class unit tests.dll
+C:\Users\evilr\Desktop\SEM CW part 2\Build-A-Bike_Program\Class unit tests\obj\Debug\Class unit tests.pdb

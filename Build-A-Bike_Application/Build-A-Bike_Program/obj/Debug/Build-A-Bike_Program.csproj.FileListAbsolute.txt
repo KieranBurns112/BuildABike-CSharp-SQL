@@ -1,0 +1,36 @@
+c:\users\evilr\onedrive\documents\visual studio 2015\Projects\Build-A-Bike_Program\Build-A-Bike_Program\bin\Debug\Build-A-Bike_Program.exe.config
+c:\users\evilr\onedrive\documents\visual studio 2015\Projects\Build-A-Bike_Program\Build-A-Bike_Program\obj\Debug\Build-A-Bike_Program.csprojResolveAssemblyReference.cache
+c:\users\evilr\onedrive\documents\visual studio 2015\Projects\Build-A-Bike_Program\Build-A-Bike_Program\obj\Debug\MainWindow.g.cs
+c:\users\evilr\onedrive\documents\visual studio 2015\Projects\Build-A-Bike_Program\Build-A-Bike_Program\obj\Debug\App.g.cs
+c:\users\evilr\onedrive\documents\visual studio 2015\Projects\Build-A-Bike_Program\Build-A-Bike_Program\obj\Debug\Build-A-Bike_Program_MarkupCompile.cache
+c:\users\evilr\onedrive\documents\visual studio 2015\Projects\Build-A-Bike_Program\Build-A-Bike_Program\obj\Debug\Build-A-Bike_Program_MarkupCompile.lref
+c:\users\evilr\onedrive\documents\visual studio 2015\Projects\Build-A-Bike_Program\Build-A-Bike_Program\bin\Debug\Build-A-Bike_Program.exe
+c:\users\evilr\onedrive\documents\visual studio 2015\Projects\Build-A-Bike_Program\Build-A-Bike_Program\bin\Debug\Build-A-Bike_Program.pdb
+c:\users\evilr\onedrive\documents\visual studio 2015\Projects\Build-A-Bike_Program\Build-A-Bike_Program\obj\Debug\MainWindow.baml
+c:\users\evilr\onedrive\documents\visual studio 2015\Projects\Build-A-Bike_Program\Build-A-Bike_Program\obj\Debug\Build-A-Bike_Program.g.resources
+c:\users\evilr\onedrive\documents\visual studio 2015\Projects\Build-A-Bike_Program\Build-A-Bike_Program\obj\Debug\Build_A_Bike_Program.Properties.Resources.resources
+c:\users\evilr\onedrive\documents\visual studio 2015\Projects\Build-A-Bike_Program\Build-A-Bike_Program\obj\Debug\Build-A-Bike_Program.csproj.GenerateResource.Cache
+c:\users\evilr\onedrive\documents\visual studio 2015\Projects\Build-A-Bike_Program\Build-A-Bike_Program\obj\Debug\Build-A-Bike_Program.exe
+c:\users\evilr\onedrive\documents\visual studio 2015\Projects\Build-A-Bike_Program\Build-A-Bike_Program\obj\Debug\Build-A-Bike_Program.pdb
+C:\Users\evilr\Desktop\SEM CW part 2\Build-A-Bike_Program\Build-A-Bike_Program\bin\Debug\Build-A-Bike_Program.exe.config
+C:\Users\evilr\Desktop\SEM CW part 2\Build-A-Bike_Program\Build-A-Bike_Program\obj\Debug\Build-A-Bike_Program.exe
+C:\Users\evilr\Desktop\SEM CW part 2\Build-A-Bike_Program\Build-A-Bike_Program\obj\Debug\Build-A-Bike_Program.pdb
+C:\Users\evilr\Desktop\SEM CW part 2\Build-A-Bike_Program\Build-A-Bike_Program\bin\Debug\Build-A-Bike_Program.exe
+C:\Users\evilr\Desktop\SEM CW part 2\Build-A-Bike_Program\Build-A-Bike_Program\bin\Debug\Build-A-Bike_Program.pdb
+C:\Users\evilr\Desktop\SEM CW part 2\Build-A-Bike_Program\Build-A-Bike_Program\obj\Debug\Build-A-Bike_Program.csprojResolveAssemblyReference.cache
+C:\Users\evilr\Desktop\SEM CW part 2\Build-A-Bike_Program\Build-A-Bike_Program\obj\Debug\MainWindow.g.cs
+C:\Users\evilr\Desktop\SEM CW part 2\Build-A-Bike_Program\Build-A-Bike_Program\obj\Debug\App.g.cs
+C:\Users\evilr\Desktop\SEM CW part 2\Build-A-Bike_Program\Build-A-Bike_Program\obj\Debug\Build-A-Bike_Program_MarkupCompile.cache
+C:\Users\evilr\Desktop\SEM CW part 2\Build-A-Bike_Program\Build-A-Bike_Program\obj\Debug\Build-A-Bike_Program_MarkupCompile.lref
+C:\Users\evilr\Desktop\SEM CW part 2\Build-A-Bike_Program\Build-A-Bike_Program\obj\Debug\MainWindow.baml
+C:\Users\evilr\Desktop\SEM CW part 2\Build-A-Bike_Program\Build-A-Bike_Program\obj\Debug\Build-A-Bike_Program.g.resources
+C:\Users\evilr\Desktop\SEM CW part 2\Build-A-Bike_Program\Build-A-Bike_Program\obj\Debug\Build_A_Bike_Program.Properties.Resources.resources
+C:\Users\evilr\Desktop\SEM CW part 2\Build-A-Bike_Program\Build-A-Bike_Program\obj\Debug\Build-A-Bike_Program.csproj.GenerateResource.Cache
+C:\Users\evilr\Desktop\SEM CW part 2\Build-A-Bike_Program\Build-A-Bike_Program\bin\Debug\BikeParts.mdf
+C:\Users\evilr\Desktop\SEM CW part 2\Build-A-Bike_Program\Build-A-Bike_Program\bin\Debug\BikeParts_log.ldf
+C:\Users\evilr\Desktop\SEM CW part 2\Build-A-Bike_Program\Build-A-Bike_Program\obj\Debug\Build-A-Bike_Program_Content.g.cs
+C:\Users\evilr\Desktop\SEM CW part 2\Build-A-Bike_Program\Build-A-Bike_Program\obj\Debug\DetailsWindow.g.cs
+C:\Users\evilr\Desktop\SEM CW part 2\Build-A-Bike_Program\Build-A-Bike_Program\obj\Debug\DetailsWindow.baml
+C:\Users\evilr\Desktop\UniCodingStuff\SEM CW part 2\Build-A-Bike_Program\Build-A-Bike_Program\bin\Debug\Build-A-Bike_Program.exe.config
+C:\Users\evilr\Desktop\UniCodingStuff\SEM CW part 2\Build-A-Bike_Program\Build-A-Bike_Program\obj\Debug\Build-A-Bike_Program.exe
+C:\Users\evilr\Desktop\UniCodingStuff\SEM CW part 2\Build-A-Bike_Program\Build-A-Bike_Program\obj\Debug\Build-A-Bike_Program.pdb

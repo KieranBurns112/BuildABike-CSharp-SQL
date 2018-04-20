@@ -1,0 +1,1 @@
+This application may not work as intended on versions of Visual Studio earlier than Visual Studio 2015.

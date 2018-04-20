@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Build-A-Bike_Program", "Build-A-Bike_Program\Build-A-Bike_Program.csproj", "{07F79A98-5283-441B-A420-C37F7D19FA48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class unit tests", "Class unit tests\Class unit tests.csproj", "{DEB4A6B3-DD22-4CB0-9BC8-4F21B24FC224}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI unit tests", "UI unit tests\UI unit tests.csproj", "{F726E16C-B0F4-4808-96B6-6D3B6BEEB0A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07F79A98-5283-441B-A420-C37F7D19FA48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F79A98-5283-441B-A420-C37F7D19FA48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F79A98-5283-441B-A420-C37F7D19FA48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F79A98-5283-441B-A420-C37F7D19FA48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEB4A6B3-DD22-4CB0-9BC8-4F21B24FC224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEB4A6B3-DD22-4CB0-9BC8-4F21B24FC224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEB4A6B3-DD22-4CB0-9BC8-4F21B24FC224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEB4A6B3-DD22-4CB0-9BC8-4F21B24FC224}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F726E16C-B0F4-4808-96B6-6D3B6BEEB0A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F726E16C-B0F4-4808-96B6-6D3B6BEEB0A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F726E16C-B0F4-4808-96B6-6D3B6BEEB0A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F726E16C-B0F4-4808-96B6-6D3B6BEEB0A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

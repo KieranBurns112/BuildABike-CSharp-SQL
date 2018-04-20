@@ -1,0 +1,33 @@
+﻿<Window x:Class="Build_A_Bike_Program.DetailsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Build_A_Bike_Program"
+        mc:Ignorable="d"
+        Title="Build-A-Bike" Height="535.295" Width="333.614">
+    <Grid>
+        <Button x:Name="completeButton" Content="Make Payment and&#xD;&#xA; Complete Order" HorizontalAlignment="Left" Margin="21,439,0,0" VerticalAlignment="Top" Width="133" Height="42" Click="completeButton_Click"/>
+        <Button x:Name="cancelButton" Content="Cancel Order" HorizontalAlignment="Left" Margin="167,439,0,0" VerticalAlignment="Top" Width="133" Height="42" Click="cancelButton_Click"/>
+        <Label x:Name="label" Content="Full Name" HorizontalAlignment="Left" Margin="10,29,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="21,55,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="279"/>
+        <Label x:Name="label_Copy" Content="Your Details:" HorizontalAlignment="Left" Margin="116,10,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Separator HorizontalAlignment="Left" Height="16" Margin="123,20,0,0" VerticalAlignment="Top" Width="68" RenderTransformOrigin="0.5,0.5"/>
+        <Label x:Name="label_Copy1" Content="Address" HorizontalAlignment="Left" Margin="10,79,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="addressBox" HorizontalAlignment="Left" Height="23" Margin="21,105,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="279"/>
+        <Label x:Name="label_Copy2" Content="Email" HorizontalAlignment="Left" Margin="10,129,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="emailBox" HorizontalAlignment="Left" Height="23" Margin="21,155,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="279"/>
+        <Label x:Name="label_Copy3" Content="Card Number" HorizontalAlignment="Left" Margin="10,270,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="cardNoBox" HorizontalAlignment="Left" Height="23" Margin="21,296,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="279"/>
+        <Label x:Name="label_Copy4" Content="Full Name" HorizontalAlignment="Left" Margin="10,29,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="nameBox" HorizontalAlignment="Left" Height="23" Margin="21,55,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="279"/>
+        <Label x:Name="label_Copy5" Content="Payment Details:" HorizontalAlignment="Left" Margin="111,194,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Separator HorizontalAlignment="Left" Height="16" Margin="116,204,0,0" VerticalAlignment="Top" Width="95" RenderTransformOrigin="0.5,0.5"/>
+        <Label x:Name="depositLabel" Content="A deposit of £0.00 (10% of total cost) &#xD;&#xA;is required on this order." HorizontalAlignment="Left" Margin="21,220,0,0" VerticalAlignment="Top" Width="279" Height="48"/>
+        <Label x:Name="label_Copy6" Content="Full Name on Card" HorizontalAlignment="Left" Margin="10,320,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="cardNameBox" HorizontalAlignment="Left" Height="23" Margin="21,346,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="279"/>
+        <Label x:Name="label_Copy7" Content="CVC" HorizontalAlignment="Left" Margin="10,366,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="cvcBox" HorizontalAlignment="Left" Height="23" Margin="21,392,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="279"/>
+
+    </Grid>
+</Window>

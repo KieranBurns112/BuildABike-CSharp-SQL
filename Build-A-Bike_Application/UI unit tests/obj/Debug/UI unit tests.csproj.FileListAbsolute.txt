@@ -1,0 +1,5 @@
+C:\Users\evilr\Desktop\SEM CW part 2\Build-A-Bike_Program\UI unit tests\bin\Debug\UI unit tests.dll
+C:\Users\evilr\Desktop\SEM CW part 2\Build-A-Bike_Program\UI unit tests\bin\Debug\UI unit tests.pdb
+C:\Users\evilr\Desktop\SEM CW part 2\Build-A-Bike_Program\UI unit tests\obj\Debug\UI unit tests.csprojResolveAssemblyReference.cache
+C:\Users\evilr\Desktop\SEM CW part 2\Build-A-Bike_Program\UI unit tests\obj\Debug\UI unit tests.dll
+C:\Users\evilr\Desktop\SEM CW part 2\Build-A-Bike_Program\UI unit tests\obj\Debug\UI unit tests.pdb
